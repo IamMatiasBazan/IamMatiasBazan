@@ -5,6 +5,7 @@
 
 <ul>
 	<li>Edad: 18 años</li>
+	<li>Programación</li>
 </ul>
 <!---
 IamMatiasBazan/IamMatiasBazan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
