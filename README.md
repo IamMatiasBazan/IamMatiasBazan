@@ -4,7 +4,7 @@
 <h1>Hola, soy Matias</h1>
 
 <ul>
-	<li>Edad: 19 años</li>
+	<li>Edad: 18 años</li>
 	<li>Programación</li>
 </ul>
 
