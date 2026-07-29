@@ -5,7 +5,7 @@
 # 🚀 Desarrollador Full Stack: Flutter, Node.js & PostgreSQL
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-Mi%20Sitio%20Web-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-matias-bazan-web.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias%20Baz%C3%A1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias%20Baz%C3%A1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-baz%C3%A1n-470a38227/)
 
 ---
 
@@ -41,9 +41,9 @@ Actualmente me encuentro investigando y aplicando **Spec Kit SDD (Spec Driven De
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiasbazan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Matias Bazán GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasbazan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamMatiasBazan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Matias Bazán GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMatiasBazan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasbazan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMatiasBazan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
