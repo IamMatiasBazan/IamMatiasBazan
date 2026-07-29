@@ -47,16 +47,15 @@ Actualmente me encuentro investigando y aplicando **Spec Kit SDD (Spec Driven De
 ## 🏆 Logros de GitHub
 
 <div align="center">
-  <a href="https://github.com/IamMatiasBazan">
-    <img src="https://github-profile-trophy.vercel.app/?username=IamMatiasBazan&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Trofeos GitHub" />
-  </a>
+  <img src="https://github-profile-trophy.pw.workers.dev/?username=IamMatiasBazan&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Trofeos GitHub" />
 </div>
+
+---
 
 ## 📈 Actividad en GitHub
 
 <div align="center">
 
-[![GitHub Commits](https://img.shields.io/github/commit-activity/m/IamMatiasBazan/IamMatiasBazan?style=for-the-badge&label=Commits%20este%20mes&color=7952B3)](https://github.com/IamMatiasBazan)
-[![GitHub Repos](https://img.shields.io/github/repos/total/IamMatiasBazan?style=for-the-badge&label=Repositorios%20P%C3%BAblicos&color=007ACC)](https://github.com/IamMatiasBazan?tab=repositories)
+[![GitHub Repos](https://img.shields.io/badge/Repositorios_P%C3%BAblicos-Ver_en_GitHub-007ACC?style=for-the-badge&logo=github)](https://github.com/IamMatiasBazan?tab=repositories)
 
 </div>
