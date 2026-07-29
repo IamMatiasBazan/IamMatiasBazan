@@ -38,9 +38,8 @@ Actualmente me encuentro investigando y aplicando **Spec Kit SDD (Spec Driven De
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Gráfico de Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-stats.pw.workers.dev/api?username=iamMatiasBazan&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.pw.workers.dev/api/top-langs/?username=iamMatiasBazan&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamMatiasBazan&theme=tokyo-night&hide_border=true" alt="Gráfico de actividad de GitHub" width="100%" />
 </div>
