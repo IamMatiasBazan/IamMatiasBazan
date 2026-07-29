@@ -41,9 +41,6 @@ Actualmente me encuentro investigando y aplicando **Spec Kit SDD (Spec Driven De
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamMatiasBazan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Matias Bazán GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMatiasBazan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMatiasBazan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamMatiasBazan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMatiasBazan&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </div>
